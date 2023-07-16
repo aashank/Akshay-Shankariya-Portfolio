@@ -51,6 +51,7 @@ const About = () => {
                             if (val.category === 'experience') {
                                 return <ResumeItem key={val.id} {...val} />
                             }
+                            return null;
                         })}
                     </div>
                     <div className="resume__data">
@@ -58,6 +59,7 @@ const About = () => {
                             if (val.category === 'education') {
                                 return <ResumeItem key={val.id} {...val} />
                             }
+                            return null;
                         })}
                     </div>
                 </div>

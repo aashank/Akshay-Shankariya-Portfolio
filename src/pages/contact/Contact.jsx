@@ -22,6 +22,7 @@ const Contact = () => {
                 console.log(result.text);
                 console.log("message sent")
                 message.success('Email sent successfully!');
+                form.current.reset();
             }, (error) => {
                 console.log(error.text);
             });

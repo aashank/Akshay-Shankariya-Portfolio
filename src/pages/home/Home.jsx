@@ -15,8 +15,7 @@ const Home = () => {
                         <span>I'm Akshay Shankariya.</span> Frontend Developer</h1>
 
                     <p className="home__description">
-                        I'm an experienced frontend developer skilled in building modern web applications using various tech stacks.
-                        Proficient in responsive design and cross-browser compatibility.
+                        Unlocking Possibilities through Intuitive Design: Your UI/UX Partner! I am an experienced frontend developer skilled in building modern web applications using  various front end technologies. Proficient in responsive design and cross-browser compatibility.
                     </p>
                     <Link to='/about' className='button'>More About Me
                         <span className='button__icon'><FaArrowRight /></span></Link>

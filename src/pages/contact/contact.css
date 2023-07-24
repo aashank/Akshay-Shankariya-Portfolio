@@ -98,3 +98,8 @@
 .button {
     cursor: pointer;
 }
+
+.linkStyling {
+    color: white;
+    cursor: pointer;
+}

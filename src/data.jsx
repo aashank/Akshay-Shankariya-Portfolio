@@ -60,25 +60,25 @@ export const links = [
 export const personalInfo = [
   {
     id: 1,
-    title: 'First Name : ',
+    title: 'First Name ',
     description: 'Akshay',
   },
 
   {
     id: 2,
-    title: 'Last Name : ',
+    title: 'Last Name ',
     description: 'Shankariya',
   },
 
   {
     id: 3,
-    title: 'Age : ',
+    title: 'Age ',
     description: '23 Years',
   },
 
   {
     id: 4,
-    title: 'Nationality : ',
+    title: 'Nationality ',
     description: 'Indian',
   },
 
@@ -90,25 +90,25 @@ export const personalInfo = [
 
   {
     id: 5,
-    title: 'Phone : ',
+    title: 'Phone ',
     description: '+91 98 818 46 437',
   },
 
   {
     id: 6,
-    title: 'Address : ',
+    title: 'Address ',
     description: 'Nagpur',
   },
 
   {
     id: 7,
-    title: 'Email : ',
+    title: 'Email ',
     description: 'akshayshankariya@gmail.com',
   },
 
   {
     id: 8,
-    title: 'Languages : ',
+    title: 'Languages ',
     description: 'English, Hindi, Marathi',
   },
 

@@ -49,7 +49,9 @@ const Contact = () => {
 
                             <div>
                                 <span className="info__title">Mail me</span>
-                                <h4 className="info__desc">akshayshankariya@gmail.com</h4>
+                                <h4 className="info__desc">
+                                    <a className='linkStyling' href="mailto:akshayshankariya@gmail.com">akshayshankariya@gmail.com</a>
+                                </h4>
                             </div>
                         </div>
 
@@ -58,8 +60,11 @@ const Contact = () => {
 
                             <div>
                                 <span className="info__title">Call me</span>
-                                <h4 className="info__desc">+91 98 818 46 437</h4>
+                                <h4 className="info__desc">
+                                    <a className='linkStyling' href="tel:+919881846437">+91 98 818 46 437</a>
+                                </h4>
                             </div>
+
                         </div>
 
                     </div>
